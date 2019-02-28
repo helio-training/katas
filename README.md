@@ -1,0 +1,2 @@
+# katas
+JavaScript Proficiency Checker
