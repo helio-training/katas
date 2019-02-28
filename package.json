@@ -1,0 +1,22 @@
+{
+  "name": "helio-katas",
+  "version": "1.0.0",
+  "description": "Helio Training's Katas",
+  "main": "index.js",
+  "repository": "https://github.com/helio-training/katas.git",
+  "author": "Tyler Garlick <tgarlick@heliotraining.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "npx jest ./katas"
+  },
+  "dependencies": {
+    "@types/got": "^9.4.1",
+    "@types/jest": "^24.0.9",
+    "got": "^9.6.0",
+    "jest": "^24.1.0",
+    "ramda": "^0.26.1",
+    "ramda-adjunct": "^2.16.1",
+    "ts-jest": "^24.0.0"
+  }
+}
